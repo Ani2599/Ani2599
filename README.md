@@ -14,6 +14,7 @@ MLOps & Deployment
 MLflow for experiment tracking
 DVC for version control and data management
 CI/CD pipelines with GitHub Actions and Docker
+
 🎯 Current Focus
 🚀 Developing high-performance APIs and pipelines that integrate diverse datasets to generate actionable insights. I am actively exploring advancements in Generative AI, Object Detection, and Large Language Models to push the boundaries of AI innovation.
 
