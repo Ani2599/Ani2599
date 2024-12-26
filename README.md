@@ -22,5 +22,5 @@ CI/CD pipelines with GitHub Actions and Docker
 💡 Staying up-to-date with emerging technologies and frameworks to remain at the cutting edge of AI and software development.
 
 📫 Let's Connect
-LinkedIn: linkedin.com/in/aniket-nandanwar
+LinkedIn: www.linkedin.com/in/aniket-nandanwar
 Email: nandanwaraniket32@gmail.com
